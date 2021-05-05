@@ -9,7 +9,7 @@ GitLabからsrcをclonし、任意のディレクトリに配置してくださ�
 ### インストールおよび起動
 キーワードツリー作成実行に必要なdocker環境の起動
 
-* 前提条件
+* 前提条件  
 Docker Desktop for Windows もしくは Docker Desktop for Mac がインストールされている環境で実施してください  
 【ダウンロードサイト】  
 Docker Desktop for Windows：https://hub.docker.com/editions/community/docker-ce-desktop-windows/  
